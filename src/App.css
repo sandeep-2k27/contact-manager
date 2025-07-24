@@ -1,0 +1,37 @@
+.header{
+    text-align: center;
+    font-size:larger;
+    font-family: sans-serif;
+    color: white;
+    background-color: brown;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.formHeader{
+    margin-left: 12px;
+}
+.add-contacts{
+    font-size: initial;
+    font-weight: 500;
+    font-family: fantasy;
+    margin-left: 12px;
+}
+input{
+    margin-bottom: 5px;
+}
+.btn{
+    border-color: cadetblue;
+    color: #8E0625;
+}
+.contacts{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid;
+    background: #fdeff2;
+    margin-bottom: 2px;
+    margin-left: 12px;
+    margin-right: 5px;
+}
